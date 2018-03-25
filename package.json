@@ -1,0 +1,19 @@
+{
+  "name": "wulu",
+  "version": "0.0.1",
+  "description": "Wulu as a node_module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulu/node-wulu.git"
+  },
+  "author": "SMRSAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wulu/node-wulu/issues"
+  },
+  "homepage": "https://github.com/wulu/node-wulu#readme"
+}
