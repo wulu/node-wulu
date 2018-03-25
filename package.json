@@ -1,6 +1,6 @@
 {
   "name": "wulu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wulu as a node_module",
   "main": "index.js",
   "scripts": {
